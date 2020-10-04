@@ -1,5 +1,5 @@
 # crtanalysis
-~from chris' README.md~
+*from chris' README.md*
 
 mostly ROOT macros for playing with ntuples output from icaruscode analyzer modules
 
